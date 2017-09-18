@@ -56,5 +56,6 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 
 ## References
 
-[StackOverflow](https://stackoverflow.com/questions/758526/testing-rss-feeds)
-[Jasmine](http://jasmine.github.io/)
+* [StackOverflow](https://stackoverflow.com/questions/758526/testing-rss-feeds)
+
+* [Jasmine](http://jasmine.github.io/)
